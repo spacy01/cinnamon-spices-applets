@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 23:34+0100\n"
+"PO-Revision-Date: 2026-05-02 08:30+0200\n"
+"Last-Translator: FabRCT\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. metadata.json->name
+#: applet.js
+msgid "Bulgarian Radio and TV Streams"
+msgstr "Flux de radio et de télévision bulgares"
+
+#: applet.js
+msgid "Radio stations"
+msgstr "Stations de radio"
+
+#: applet.js
+msgid "Bg Radio"
+msgstr "Bg Radio"
+
+#: applet.js
+#, javascript-format
+msgid "Listening %s"
+msgstr "À l'écoute de %s"
+
+#: applet.js
+msgid "bTV Radio"
+msgstr "bTV Radio"
+
+#: applet.js
+msgid "City Radio"
+msgstr "Radio de la ville"
+
+#: applet.js
+msgid "Classic FM"
+msgstr "Classic FM"
+
+#: applet.js
+msgid "Darik"
+msgstr "Darik"
+
+#: applet.js
+msgid "Darik Nostalgie"
+msgstr "Darik Nostalgie"
+
+#: applet.js
+msgid "Energy"
+msgstr "Energy"
+
+#: applet.js
+msgid "FM+"
+msgstr "FM+"
+
+#: applet.js
+msgid "Fresh"
+msgstr "Fresh"
+
+#: applet.js
+msgid "Jazz FM"
+msgstr "Jazz FM"
+
+#: applet.js
+msgid "Melody"
+msgstr "Melody"
+
+#: applet.js
+msgid "N-Joy"
+msgstr "N-Joy"
+
+#: applet.js
+msgid "Nova Radio"
+msgstr "Nova Radio"
+
+#: applet.js
+msgid "Radio 1"
+msgstr "Radio 1"
+
+#: applet.js
+msgid "Radio 1 Rock"
+msgstr "Radio 1 Rock"
+
+#: applet.js
+msgid "The Voice Radio"
+msgstr "The Voice Radio"
+
+#: applet.js
+msgid "Z-Rock"
+msgstr "Z-Rock"
+
+#: applet.js
+msgid "TV stations"
+msgstr "Stations de TV"
+
+#: applet.js
+#, javascript-format
+msgid "Watching %s"
+msgstr "En train de regarder %s"
+
+#: applet.js
+msgid "City"
+msgstr "Ville"
+
+#: applet.js
+msgid "Kanal 3"
+msgstr "Kanal 3"
+
+#: applet.js
+msgid "The Voice"
+msgstr "The Voice"
+
+#: applet.js
+msgid "Magic TV"
+msgstr "Magic TV"
+
+#: applet.js
+msgid "Stop"
+msgstr "Arrêt"
+
+#: applet.js
+msgid "All Stop"
+msgstr "Tout arrêter"
+
+#. metadata.json->description
+#, fuzzy
+msgid ""
+"The most famous bulgarian radio and TV streams. Some of the streams are "
+"available only from bulgaria. To watch a TVs, you'll need to install mpv "
+"player."
+msgstr ""
+"Les flux radio et TV bulgares les plus connus. Certains des flux ne sont "
+"disponibles qu'en Bulgarie. Pour regarder une télévision, vous devez "
+"installer les packages rtmpdump et mpv."
+
+#~ msgid "K2"
+#~ msgstr "K2"
+
+#~ msgid "BNT"
+#~ msgstr "BNT"
+
+#~ msgid "BNT 2"
+#~ msgstr "BNT 2"
+
+#~ msgid "BNT HD"
+#~ msgstr "BNT HD"
+
+#~ msgid "BNT World"
+#~ msgstr "BNT World"
+
+#~ msgid "bTV"
+#~ msgstr "bTV"
+
+#~ msgid "BIT"
+#~ msgstr "BIT"
+
+#~ msgid "Nova"
+#~ msgstr "Nova"
+
+#~ msgid "On Air"
+#~ msgstr "On Air"
+
+#~ msgid "Euronews Bulgaria"
+#~ msgstr "Euronews Bulgarie"

@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+
+#. metadata.json->name
+#: applet.js
+msgid "Bulgarian Radio and TV Streams"
+msgstr ""
+
+#: applet.js
+msgid "Radio stations"
+msgstr ""
+
+#: applet.js
+msgid "TV stations"
+msgstr ""
+
+#: applet.js
+msgid "Stop"
+msgstr ""
+
+#: applet.js
+msgid "All Stop"
+msgstr ""
+
+#. metadata.json->description
+msgid ""
+"The most famous bulgarian radio and TV streams. Some of the streams are "
+"available only from bulgaria. To watch a TVs, you'll need to install mpv "
+"player."
+msgstr ""
